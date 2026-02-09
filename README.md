@@ -1,25 +1,21 @@
-# Template-project
+# ✍️ MachineThatDraw - Groupe 06
 
-Template pour la création d'un repo type projet pour le MakerSpace. Doc gérée via le thème [Just-The-Docs](https://just-the-docs.com) en vanilla.
+Bienvenue sur le dépôt GitHub de notre projet MakerSpace. Notre mission : concevoir et fabriquer une machine capable d'écrire et de dessiner de manière autonome.
 
-## Bienvenue sur Notre Projet
+## 🚀 Le Projet
+L'objectif est de créer un traceur numérique (plotter) qui transforme des données numériques en mouvements physiques pour diriger un stylo. 
 
-Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les ressources nécessaires pour comprendre, utiliser et contribuer à notre projet.
+### Caractéristiques principales :
+* **Mouvement :** Contrôlé par des moteurs pas à pas.
+* **Précision :** Capable de reproduire des tracés complexes et du texte.
+* **Technologie :** Basé sur Arduino et piloté via une interface logicielle.
 
-### Contenu du Repository
+## 📁 Contenu du Repository
+* **/docs** : Retrouvez ici toutes les étapes de notre fabrication, le journal de bord et la documentation technique.
+* **/project** : Contient le code source (Arduino) et les plans de montage.
 
-- **Documentation :** Toutes les documentations techniques et guides d'utilisation sont disponibles dans le dossier `docs`. Voir le site de doc associé. 
-- **project :** Toutes les sources de notre projet.
+## 🛠️ L'Équipe
+Nous sommes le **Groupe 06** du MakerSpace Amiens.
 
-### Comment Utiliser ce Repository ?
-
-- Pour commencer, consultez la documentation dans le dossier `docs`.
-- Si vous souhaitez contribuer au projet, veuillez lire nos directives de contribution.
-
-## Contribution
-
-Nous accueillons et apprécions toute contribution. Si vous souhaitez contribuer, veuillez consulter notre guide de contribution pour connaître nos attentes et notre processus.
-
-## Contact
-
-Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter.
+---
+*Projet réalisé dans le cadre du module MakerSpace 2026.*
